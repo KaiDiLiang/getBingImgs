@@ -1,0 +1,317 @@
+2020/01/10 23:48:11 [notice] 3492#748: using the "select" event method
+2020/01/10 23:48:11 [notice] 3492#748: nginx/1.15.11
+2020/01/10 23:48:11 [notice] 3492#748: start worker processes
+2020/01/10 23:48:11 [notice] 3492#748: start worker process 5644
+2020/01/10 23:48:12 [notice] 5644#5708: nginx/1.15.11
+2020/01/10 23:48:12 [notice] 5644#5708: create thread 5728
+2020/01/10 23:48:12 [notice] 5644#5708: create thread 5584
+2020/01/10 23:48:12 [notice] 5644#5708: create thread 2456
+2020/01/10 23:48:12 [notice] 3492#748: start worker process 5408
+2020/01/10 23:48:12 [notice] 5408#1008: nginx/1.15.11
+2020/01/10 23:48:12 [notice] 5408#1008: create thread 2484
+2020/01/10 23:48:12 [notice] 5408#1008: create thread 4708
+2020/01/10 23:48:12 [notice] 5408#1008: create thread 1492
+2020/01/10 23:48:12 [notice] 3492#748: start worker process 4624
+2020/01/10 23:48:12 [notice] 4624#3428: nginx/1.15.11
+2020/01/10 23:48:12 [notice] 4624#3428: create thread 4360
+2020/01/10 23:48:12 [notice] 4624#3428: create thread 3300
+2020/01/10 23:48:12 [notice] 4624#3428: create thread 5524
+2020/01/10 23:48:12 [notice] 3492#748: start worker process 6052
+2020/01/10 23:48:12 [notice] 6052#5852: nginx/1.15.11
+2020/01/10 23:48:12 [notice] 6052#5852: create thread 1740
+2020/01/10 23:48:12 [notice] 6052#5852: create thread 1796
+2020/01/10 23:48:12 [notice] 6052#5852: create thread 3364
+2020/01/11 00:01:54 [error] 5644#5728: *8 "A:/Code/myTest/GetBingImgs/error/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: getbingimgs.com, request: "GET / HTTP/1.1", host: "localhost:8080"
+2020/01/11 00:02:10 [notice] 2604#4664: using the "select" event method
+2020/01/11 00:02:10 [notice] 2604#4664: nginx/1.15.11
+2020/01/11 00:02:10 [notice] 2604#4664: start worker processes
+2020/01/11 00:02:10 [notice] 2604#4664: start worker process 7048
+2020/01/11 00:02:10 [notice] 7048#6972: nginx/1.15.11
+2020/01/11 00:02:10 [notice] 7048#6972: create thread 7260
+2020/01/11 00:02:10 [notice] 7048#6972: create thread 7020
+2020/01/11 00:02:10 [notice] 7048#6972: create thread 7376
+2020/01/11 00:02:10 [notice] 2604#4664: start worker process 7916
+2020/01/11 00:02:10 [notice] 7916#6676: nginx/1.15.11
+2020/01/11 00:02:10 [notice] 7916#6676: create thread 1500
+2020/01/11 00:02:10 [notice] 7916#6676: create thread 8000
+2020/01/11 00:02:10 [notice] 7916#6676: create thread 7016
+2020/01/11 00:02:10 [notice] 2604#4664: start worker process 7652
+2020/01/11 00:02:10 [notice] 7652#7420: nginx/1.15.11
+2020/01/11 00:02:10 [notice] 7652#7420: create thread 180
+2020/01/11 00:02:10 [notice] 7652#7420: create thread 7104
+2020/01/11 00:02:10 [notice] 7652#7420: create thread 7968
+2020/01/11 00:02:10 [notice] 2604#4664: start worker process 7024
+2020/01/11 00:02:11 [notice] 7024#7152: nginx/1.15.11
+2020/01/11 00:02:11 [notice] 7024#7152: create thread 5624
+2020/01/11 00:02:11 [notice] 7024#7152: create thread 3708
+2020/01/11 00:02:11 [notice] 7024#7152: create thread 3416
+2020/01/11 14:47:17 [notice] 7320#7352: using the "select" event method
+2020/01/11 14:47:17 [notice] 7320#7352: nginx/1.15.11
+2020/01/11 14:47:17 [notice] 7320#7352: start worker processes
+2020/01/11 14:47:17 [notice] 7320#7352: start worker process 7544
+2020/01/11 14:47:18 [notice] 7544#7608: nginx/1.15.11
+2020/01/11 14:47:18 [notice] 7544#7608: create thread 7716
+2020/01/11 14:47:18 [notice] 7544#7608: create thread 7376
+2020/01/11 14:47:18 [notice] 7544#7608: create thread 1544
+2020/01/11 14:47:18 [notice] 7320#7352: start worker process 3792
+2020/01/11 14:47:18 [notice] 3792#7344: nginx/1.15.11
+2020/01/11 14:47:18 [notice] 3792#7344: create thread 7488
+2020/01/11 14:47:18 [notice] 3792#7344: create thread 7644
+2020/01/11 14:47:18 [notice] 3792#7344: create thread 7412
+2020/01/11 14:47:18 [notice] 7320#7352: start worker process 5992
+2020/01/11 14:47:18 [notice] 5992#7620: nginx/1.15.11
+2020/01/11 14:47:18 [notice] 5992#7620: create thread 8032
+2020/01/11 14:47:18 [notice] 5992#7620: create thread 7952
+2020/01/11 14:47:18 [notice] 5992#7620: create thread 7280
+2020/01/11 14:47:18 [notice] 7320#7352: start worker process 7440
+2020/01/11 14:47:18 [notice] 7440#7444: nginx/1.15.11
+2020/01/11 14:47:18 [notice] 7440#7444: create thread 7780
+2020/01/11 14:47:18 [notice] 7440#7444: create thread 7784
+2020/01/11 14:47:18 [notice] 7440#7444: create thread 7992
+2020/01/11 18:37:32 [notice] 3440#1780: using the "select" event method
+2020/01/11 18:37:32 [notice] 3440#1780: nginx/1.15.11
+2020/01/11 18:37:32 [notice] 3440#1780: start worker processes
+2020/01/11 18:37:32 [notice] 3440#1780: start worker process 5312
+2020/01/11 18:37:32 [notice] 5312#7040: nginx/1.15.11
+2020/01/11 18:37:32 [notice] 5312#7040: create thread 7852
+2020/01/11 18:37:32 [notice] 5312#7040: create thread 2744
+2020/01/11 18:37:32 [notice] 5312#7040: create thread 5208
+2020/01/11 18:37:32 [notice] 3440#1780: start worker process 3036
+2020/01/11 18:37:33 [notice] 3036#6080: nginx/1.15.11
+2020/01/11 18:37:33 [notice] 3036#6080: create thread 6400
+2020/01/11 18:37:33 [notice] 3036#6080: create thread 1256
+2020/01/11 18:37:33 [notice] 3036#6080: create thread 7888
+2020/01/11 18:37:33 [notice] 3440#1780: start worker process 6300
+2020/01/11 18:37:33 [notice] 6300#7132: nginx/1.15.11
+2020/01/11 18:37:33 [notice] 6300#7132: create thread 7628
+2020/01/11 18:37:33 [notice] 6300#7132: create thread 7732
+2020/01/11 18:37:33 [notice] 6300#7132: create thread 7128
+2020/01/11 18:37:33 [notice] 3440#1780: start worker process 7596
+2020/01/11 18:37:33 [notice] 7596#6196: nginx/1.15.11
+2020/01/11 18:37:33 [notice] 7596#6196: create thread 3560
+2020/01/11 18:37:33 [notice] 7596#6196: create thread 7568
+2020/01/11 18:37:33 [notice] 7596#6196: create thread 6304
+2020/01/11 18:44:50 [error] 5312#7852: *1 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '$_date' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in A:\Code\myTest\GetBingImgs\bing.php on line 4" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 18:46:22 [error] 5312#7852: *7 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '$_GetBingImgJson' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in A:\Code\myTest\GetBingImgs\bing.php on line 4" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 18:46:44 [error] 5312#7852: *7 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in A:\Code\myTest\GetBingImgs\bing.php on line 4" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:26:27 [error] 5312#7852: *26 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in A:\Code\myTest\GetBingImgs\bing.php on line 54" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:28:17 [error] 5312#7852: *30 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class 'Spider' not found in A:\Code\myTest\GetBingImgs\bing.php:70
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 70" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:29:27 [error] 5312#7852: *34 FastCGI sent in stderr: "PHP Warning:  Use of undefined constant CURLOPT_COUNNECTTIMEOUT - assumed 'CURLOPT_COUNNECTTIMEOUT' (this will throw an Error in a future version of PHP) in A:\Code\myTest\GetBingImgs\bing.php on line 55
+PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in A:\Code\myTest\GetBingImgs\bing.php on line 55" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:37:59 [error] 5312#7852: *42 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:39:24 [error] 5312#7852: *50 FastCGI sent in stderr: "PHP Warning:  json_encode() expects parameter 3 to be int, string given in A:\Code\myTest\GetBingImgs\bing.php on line 49" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:40:05 [error] 5312#7852: *54 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class '["http:\/\/cn.bing.com\/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","202001100800","\u6392\u5217\u5728\u901a\u5f80\u5927\u5723\u9662\u77f3\u5f84\u4e0a\u7684\u5c0f\u7f57\u6c49\u96d5\u50cf\uff0c\u65e5\u672c\u5bab\u5c9b (\u00a9 Malcolm Fairman\/Alamy)"]' not found in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:40:34 [error] 5312#7852: *54 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class '["http:\/\/cn.bing.com\/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","202001100800","\u6392\u5217\u5728\u901a\u5f80\u5927\u5723\u9662\u77f3\u5f84\u4e0a\u7684\u5c0f\u7f57\u6c49\u96d5\u50cf\uff0c\u65e5\u672c\u5bab\u5c9b (\u00a9 Malcolm Fairman\/Alamy)"]' not found in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:40:37 [error] 5312#7852: *54 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class '["http:\/\/cn.bing.com\/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","202001100800","\u6392\u5217\u5728\u901a\u5f80\u5927\u5723\u9662\u77f3\u5f84\u4e0a\u7684\u5c0f\u7f57\u6c49\u96d5\u50cf\uff0c\u65e5\u672c\u5bab\u5c9b (\u00a9 Malcolm Fairman\/Alamy)"]' not found in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:41:25 [error] 5312#7852: *54 FastCGI sent in stderr: "PHP Warning:  json_decode() expects parameter 3 to be int, string given in A:\Code\myTest\GetBingImgs\bing.php on line 49
+PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:41:57 [error] 5312#7852: *54 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class '["http:\/\/cn.bing.com\/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","202001100800","\u6392\u5217\u5728\u901a\u5f80\u5927\u5723\u9662\u77f3\u5f84\u4e0a\u7684\u5c0f\u7f57\u6c49\u96d5\u50cf\uff0c\u65e5\u672c\u5bab\u5c9b (\u00a9 Malcolm Fairman\/Alamy)"]' not found in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:42:28 [error] 5312#7852: *67 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class '["http:\/\/cn.bing.com\/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","202001100800","\u6392\u5217\u5728\u901a\u5f80\u5927\u5723\u9662\u77f3\u5f84\u4e0a\u7684\u5c0f\u7f57\u6c49\u96d5\u50cf\uff0c\u65e5\u672c\u5bab\u5c9b (\u00a9 Malcolm Fairman\/Alamy)"]' not found in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:50:21 [error] 5312#7852: *75 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class '["http:\/\/cn.bing.com\/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","202001100800","\u6392\u5217\u5728\u901a\u5f80\u5927\u5723\u9662\u77f3\u5f84\u4e0a\u7684\u5c0f\u7f57\u6c49\u96d5\u50cf\uff0c\u65e5\u672c\u5bab\u5c9b (\u00a9 Malcolm Fairman\/Alamy)"]' not found in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:51:09 [error] 5312#7852: *75 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class 'http://cn.bing.com/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp' not found in A:\Code\myTest\GetBingImgs\bing.php:72
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 72" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:51:53 [error] 5312#7852: *75 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Class 'http://cn.bing.com/th?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp' not found in A:\Code\myTest\GetBingImgs\bing.php:72
+Stack trace:
+#0 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 72" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:56:06 [error] 5312#7852: *85 FastCGI sent in stderr: "PHP Warning:  fopen(/imagesth?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: No error in A:\Code\myTest\GetBingImgs\bing.php on line 65
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 66
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 67" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 19:58:08 [error] 5312#7852: *91 FastCGI sent in stderr: "PHP Warning:  fopen(/imagesth?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: No error in A:\Code\myTest\GetBingImgs\bing.php on line 65
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 66
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 67" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/11 20:04:02 [error] 5312#7852: *99 FastCGI sent in stderr: "PHP Warning:  fopen(/imagesth?id=OHR.Rakan_ZH-CN8521004423_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: No error in A:\Code\myTest\GetBingImgs\bing.php on line 65
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 66
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 67" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 12:32:51 [notice] 2492#6752: using the "select" event method
+2020/01/12 12:32:51 [notice] 2492#6752: nginx/1.15.11
+2020/01/12 12:32:51 [notice] 2492#6752: start worker processes
+2020/01/12 12:32:51 [notice] 2492#6752: start worker process 4148
+2020/01/12 12:32:52 [notice] 4148#6564: nginx/1.15.11
+2020/01/12 12:32:52 [notice] 4148#6564: create thread 6912
+2020/01/12 12:32:52 [notice] 4148#6564: create thread 2532
+2020/01/12 12:32:52 [notice] 4148#6564: create thread 4604
+2020/01/12 12:32:52 [notice] 2492#6752: start worker process 612
+2020/01/12 12:32:52 [notice] 612#3476: nginx/1.15.11
+2020/01/12 12:32:52 [notice] 612#3476: create thread 5628
+2020/01/12 12:32:52 [notice] 612#3476: create thread 7024
+2020/01/12 12:32:52 [notice] 612#3476: create thread 2976
+2020/01/12 12:32:52 [notice] 2492#6752: start worker process 6380
+2020/01/12 12:32:52 [notice] 6380#4100: nginx/1.15.11
+2020/01/12 12:32:52 [notice] 6380#4100: create thread 1608
+2020/01/12 12:32:52 [notice] 6380#4100: create thread 7448
+2020/01/12 12:32:52 [notice] 6380#4100: create thread 3836
+2020/01/12 12:32:52 [notice] 2492#6752: start worker process 7408
+2020/01/12 12:32:52 [notice] 7408#5708: nginx/1.15.11
+2020/01/12 12:32:52 [notice] 7408#5708: create thread 428
+2020/01/12 12:32:52 [notice] 7408#5708: create thread 4416
+2020/01/12 12:32:52 [notice] 7408#5708: create thread 7848
+2020/01/12 12:42:55 [error] 4148#6912: *10 FastCGI sent in stderr: "PHP Warning:  fopen(th?id=OHR.Zugspitze_ZH-CN1831794930_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: No error in A:\Code\myTest\GetBingImgs\bing.php on line 66" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 12:49:23 [error] 4148#6912: *26 FastCGI sent in stderr: "PHP Warning:  fopen(http://cn.bing.com/th?id=OHR.Zugspitze_ZH-CN1831794930_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: HTTP wrapper does not support writeable connections in A:\Code\myTest\GetBingImgs\bing.php on line 64" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 12:51:07 [error] 4148#6912: *30 FastCGI sent in stderr: "PHP Warning:  fopen(/imageshttp://cn.bing.com/th?id=OHR.Zugspitze_ZH-CN1831794930_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: No error in A:\Code\myTest\GetBingImgs\bing.php on line 64" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:19:08 [error] 4148#6912: *34 FastCGI sent in stderr: "PHP Warning:  fopen(/imageshttp://cn.bing.com/th?id=OHR.Zugspitze_ZH-CN1831794930_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp): failed to open stream: No error in A:\Code\myTest\GetBingImgs\bing.php on line 64
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 65" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:31:25 [error] 4148#6912: *38 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in A:\Code\myTest\GetBingImgs\bing.php on line 73" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:33:58 [error] 4148#6912: *42 FastCGI sent in stderr: "PHP Warning:  explode() expects parameter 2 to be string, array given in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:38:08 [error] 4148#6912: *56 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected ',', expecting ';' in A:\Code\myTest\GetBingImgs\bing.php on line 50" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:38:42 [error] 4148#6912: *56 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GetBingImgJson::saveAsImage(), 3 passed in A:\Code\myTest\GetBingImgs\bing.php on line 63 and exactly 4 expected in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(63): GetBingImgJson->saveAsImage(Array, false, '/images')
+#1 A:\Code\myTest\GetBingImgs\bing.php(87): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:39:43 [error] 4148#6912: *56 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '[' in A:\Code\myTest\GetBingImgs\bing.php on line 85" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:39:49 [error] 4148#6912: *56 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in A:\Code\myTest\GetBingImgs\bing.php on line 85" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:42:16 [error] 4148#6912: *70 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GetBingImgJson::saveAsImage(), 3 passed in A:\Code\myTest\GetBingImgs\bing.php on line 63 and exactly 4 expected in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(63): GetBingImgJson->saveAsImage(Array, false, '/images')
+#1 A:\Code\myTest\GetBingImgs\bing.php(87): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:43:30 [error] 4148#6912: *74 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GetBingImgJson::saveAsImage(), 3 passed in A:\Code\myTest\GetBingImgs\bing.php on line 63 and exactly 4 expected in A:\Code\myTest\GetBingImgs\bing.php:71
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(63): GetBingImgJson->saveAsImage(Array, false, '/images')
+#1 A:\Code\myTest\GetBingImgs\bing.php(87): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:46:50 [error] 4148#6912: *74 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GetBingImgJson::saveAsImage(), 3 passed in A:\Code\myTest\GetBingImgs\bing.php on line 62 and exactly 4 expected in A:\Code\myTest\GetBingImgs\bing.php:70
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(62): GetBingImgJson->saveAsImage(Array, false, '/images')
+#1 A:\Code\myTest\GetBingImgs\bing.php(86): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 70" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:51:12 [error] 4148#6912: *94 FastCGI sent in stderr: "PHP Warning:  fopen(/images楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:55:18 [error] 4148#6912: *98 FastCGI sent in stderr: "PHP Warning:  mkdir(): File exists in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:56:15 [error] 4148#6912: *98 FastCGI sent in stderr: "PHP Warning:  fopen(images楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:58:21 [error] 4148#6912: *104 FastCGI sent in stderr: "PHP Warning:  fopen(/images . 楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:59:04 [error] 4148#6912: *104 FastCGI sent in stderr: "PHP Warning:  fopen(/images . 楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 13:59:43 [error] 4148#6912: *104 FastCGI sent in stderr: "PHP Warning:  fopen(/images楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:00:11 [error] 4148#6912: *104 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:08:30 [error] 4148#6912: *114 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:09:42 [error] 4148#6912: *114 FastCGI sent in stderr: "PHP Warning:  fopen(images/): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:10:35 [error] 4148#6912: *114 FastCGI sent in stderr: "PHP Warning:  fopen(images/): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:11:20 [error] 4148#6912: *114 FastCGI sent in stderr: "PHP Warning:  Use of undefined constant jpg - assumed 'jpg' (this will throw an Error in a future version of PHP) in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:17:03 [error] 4148#6912: *136 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:17:53 [error] 4148#6912: *136 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:18:45 [error] 4148#6912: *136 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '}' in A:\Code\myTest\GetBingImgs\bing.php on line 64" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:18:58 [warn] 4148#6912: *136 an upstream response is buffered to a temporary file A:\phpStudy\Extensions\Nginx1.15.11/temp/fastcgi_temp/1/00/0000000001 while reading upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:20:01 [error] 4148#6912: *136 FastCGI sent in stderr: "PHP Warning:  fopen() expects parameter 1 to be a valid path, string given in A:\Code\myTest\GetBingImgs\bing.php on line 75
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:21:34 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:22:32 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  mkdir(): Invalid path in A:\Code\myTest\GetBingImgs\bing.php on line 71" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:22:42 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  fopen() expects parameter 1 to be a valid path, string given in A:\Code\myTest\GetBingImgs\bing.php on line 75
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:23:24 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  fopen() expects parameter 1 to be a valid path, string given in A:\Code\myTest\GetBingImgs\bing.php on line 75
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:23:27 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  fopen() expects parameter 1 to be a valid path, string given in A:\Code\myTest\GetBingImgs\bing.php on line 75
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:23:37 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  fopen(): Filename cannot be empty in A:\Code\myTest\GetBingImgs\bing.php on line 75
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:23:56 [error] 4148#6912: *148 FastCGI sent in stderr: "PHP Warning:  fopen(images/): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 75
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:30:11 [error] 4148#6912: *170 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 (© Marc Hohenleitner/Huber/eStock Photo)): failed to open stream: No such file or directory in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:31:37 [error] 4148#6912: *174 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined function parse() in A:\Code\myTest\GetBingImgs\bing.php:74
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(62): GetBingImgJson->saveAsImage(Array, '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00...', 'images/')
+#1 A:\Code\myTest\GetBingImgs\bing.php(88): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 74" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:32:17 [error] 4148#6912: *174 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined function parse() in A:\Code\myTest\GetBingImgs\bing.php:74
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(62): GetBingImgJson->saveAsImage(Array, '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00...', 'images/')
+#1 A:\Code\myTest\GetBingImgs\bing.php(89): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 74" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:32:20 [error] 4148#6912: *174 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined function parse() in A:\Code\myTest\GetBingImgs\bing.php:74
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(62): GetBingImgJson->saveAsImage(Array, '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00...', 'images/')
+#1 A:\Code\myTest\GetBingImgs\bing.php(89): GetBingImgJson->downloadImgs(Array)
+#2 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 74" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:33:46 [error] 4148#6912: *181 FastCGI sent in stderr: "PHP Warning:  explode() expects at least 2 parameters, 1 given in A:\Code\myTest\GetBingImgs\bing.php on line 75" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:34:07 [error] 4148#6912: *181 FastCGI sent in stderr: "PHP Warning:  explode() expects parameter 2 to be string, array given in A:\Code\myTest\GetBingImgs\bing.php on line 75" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:34:31 [error] 4148#6912: *181 FastCGI sent in stderr: "PHP Warning:  explode() expects parameter 2 to be string, array given in A:\Code\myTest\GetBingImgs\bing.php on line 75" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:34:44 [error] 4148#6912: *181 FastCGI sent in stderr: "PHP Warning:  explode() expects parameter 2 to be string, array given in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:35:26 [error] 4148#6912: *181 FastCGI sent in stderr: "PHP Warning:  Use of undefined constant path - assumed 'path' (this will throw an Error in a future version of PHP) in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:36:29 [error] 4148#6912: *181 FastCGI sent in stderr: "PHP Warning:  explode(): Empty delimiter in A:\Code\myTest\GetBingImgs\bing.php on line 75" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:43:14 [error] 4148#6912: *216 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 ): failed to open stream: Permission denied in A:\Code\myTest\GetBingImgs\bing.php on line 78
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 80
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 81" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:52:15 [error] 4148#6912: *231 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 ): failed to open stream: Permission denied in A:\Code\myTest\GetBingImgs\bing.php on line 82
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 84
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 85" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 14:55:21 [error] 4148#6912: *238 FastCGI sent in stderr: "PHP Warning:  explode() expects parameter 3 to be int, string given in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  array_pop() expects parameter 1 to be array, null given in A:\Code\myTest\GetBingImgs\bing.php on line 78" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:01:23 [error] 4148#6912: *245 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getImgExt(), 0 passed in A:\Code\myTest\GetBingImgs\bing.php on line 80 and exactly 1 expected in A:\Code\myTest\GetBingImgs\bing.php:76
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(80): getImgExt()
+#1 A:\Code\myTest\GetBingImgs\bing.php(62): GetBingImgJson->saveAsImage(Array, '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00...', 'images/')
+#2 A:\Code\myTest\GetBingImgs\bing.php(96): GetBingImgJson->downloadImgs(Array)
+#3 {main}
+  thrown in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:11:34 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Warning:  preg_match(): Unknown modifier '+' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:11:41 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Warning:  preg_match(): Unknown modifier '?' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:11:56 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Warning:  preg_match(): Unknown modifier '?' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:12:02 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Warning:  preg_match(): Unknown modifier '?' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:12:11 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Warning:  preg_match(): Unknown modifier '?' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:13:01 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '/' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:13:26 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '/' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:13:28 [error] 4148#6912: *273 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '/' in A:\Code\myTest\GetBingImgs\bing.php on line 76" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:26:36 [error] 4148#6912: *308 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getImgType(), 0 passed in A:\Code\myTest\GetBingImgs\bing.php on line 78 and exactly 1 expected in A:\Code\myTest\GetBingImgs\util.php:24
+Stack trace:
+#0 A:\Code\myTest\GetBingImgs\bing.php(78): getImgType()
+#1 A:\Code\myTest\GetBingImgs\bing.php(62): GetBingImgJson->saveAsImage(Array, '\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00...', 'images/')
+#2 A:\Code\myTest\GetBingImgs\bing.php(89): GetBingImgJson->downloadImgs(Array)
+#3 {main}
+  thrown in A:\Code\myTest\GetBingImgs\util.php on line 24" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
+2020/01/12 15:33:55 [error] 4148#6912: *324 FastCGI sent in stderr: "PHP Warning:  fopen(images/楚格峰下的艾布湖，德国巴伐利亚 ): failed to open stream: Permission denied in A:\Code\myTest\GetBingImgs\bing.php on line 77
+PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 79
+PHP Warning:  fclose() expects parameter 1 to be resource, bool given in A:\Code\myTest\GetBingImgs\bing.php on line 80" while reading response header from upstream, client: 127.0.0.1, server: getbingimgs.com, request: "GET /bing.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8080"
